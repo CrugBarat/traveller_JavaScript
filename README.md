@@ -2,7 +2,7 @@
 
 This exercise was tasked to me by CodeClan, Glasgow where I studied towards a PDA Level 8 in Professional Software Development. The exercise brief can be found below.
 
-## Brief
+**Brief**
 
 You have been given a project with two models, Traveller and Journey, and their corresponding test files.
 
